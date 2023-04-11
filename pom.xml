@@ -9,10 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lwx</groupId>
-	<artifactId>springboot_01_01_quickstart</artifactId>
+	<artifactId>springboot_XX_XX_XXXXX</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot_01_01_quickstart</name>
-	<description>springboot_01_01_quickstart</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
